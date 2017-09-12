@@ -41,3 +41,6 @@ UPC Wi-Free
 Google Starbucks
 Starbucks WiFi
 CoffeeBeanWifi
+JetBlue Hotspot
+Fly-Fi
+SouthwestWiFi
